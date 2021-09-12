@@ -7,9 +7,12 @@
 
 🏡 &nbsp; I am from Jalna, Maharashtra, India.  
 🎓 &nbsp; Currently pursuing B.Tech in Computer Engineering at Government College of Engineering, Aurangabad, Maharashtra, India.  
-❤️ &nbsp; Learning new technologies, teaching and applying them in the real-world is my passion.  
-💬 &nbsp; Ask me about anything! Would love to connect and chat about technology!  
-📫 &nbsp; Reach me on any of the platforms given above!
+❤️ &nbsp; I have interest in web development and software development.  
+💬 &nbsp; Looking for web development work, internship and job!  
+📫 &nbsp; Connect with me on any of the platforms given above!
+
+
+## Skills
 
 #### Frontend
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
