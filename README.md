@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashngadhave/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashngadhave@gmail.com "Connect via Email")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akash_gadve/ "Connect via Instagram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akash_gdve/ "Connect via Instagram")
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Akash2001.Akash2001)
 
 🏡 &nbsp; I am from Jalna, Maharashtra, India.  
