@@ -1,4 +1,4 @@
-## Hi there&nbsp; I'm Akash Gadhave &nbsp;:muscle: :nerd_face:
+## Hi there,&nbsp;I'm Akash Gadhave &nbsp;:muscle: :nerd_face:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashngadhave/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashngadhave@gmail.com "Connect via Email")
