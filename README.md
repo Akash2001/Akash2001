@@ -7,8 +7,7 @@
 
 🏡 &nbsp; I am from Jalna, Maharashtra, India.  
 🎓 &nbsp; Currently pursuing B.Tech in Computer Engineering at Government College of Engineering, Aurangabad, Maharashtra, India.  
-❤️ &nbsp; I have interest in web development and software development.  
-💬 &nbsp; Looking for web development work, internship and job!  
+❤️ &nbsp; I have interest in web development and software development.    
 📫 &nbsp; Connect with me on any of the platforms given above!
 
 
