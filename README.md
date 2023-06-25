@@ -4,11 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashngadhave@gmail.com "Connect via Email")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akash_gdve/ "Connect via Instagram")
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Akash2001.Akash2001)
-  
-🎓 &nbsp; Completed my B.Tech in Computer Science and Engineering from Government College of Engineering, Aurangabad, Maharashtra, India.
-❤️ &nbsp; Interested in web development and software development.    
-📫 &nbsp; Connect with me on any of the platforms given above!
-
 
 ## Skills
 
