@@ -6,7 +6,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Akash2001.Akash2001)
   
 🎓 &nbsp; Completed my B.Tech in Computer Science and Engineering from Government College of Engineering, Aurangabad, Maharashtra, India.
-🏡 &nbsp; I am from Jalna, Maharashtra, India.
 ❤️ &nbsp; Interested in web development and software development.    
 📫 &nbsp; Connect with me on any of the platforms given above!
 
